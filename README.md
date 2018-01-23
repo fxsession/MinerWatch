@@ -1,8 +1,8 @@
 # MinerWatch
 1. Overview
-MinerWatch makes it possible to monitor ASIC miners running cgminer (e.g. all Bitmain production) in a single window.
+MinerWatch makes it possible to monitor ASIC miners running cgminer (e.g. all Bitmain products) in a single window.
 
-You need java version 1.8 or higher to run MinerWath tool on you machine. To verify java on your computer type java.exe from the command line or search programs and files in the strat-up menu in Windows.  To download java follow this link : http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html   
+You need java version 1.8 or higher to run MinerWatch tool on you machine. To verify java on your computer type java.exe from the command line or search programs and files in the strat-up menu in Windows.  To download java follow this link : http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html   
 MinerWatch displays main paramters enabling you to track the state of all devices in your subnet:
 URL - IP address
 Type - device type (e.g. Antminer S9)
