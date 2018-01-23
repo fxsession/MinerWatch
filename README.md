@@ -47,7 +47,7 @@ Each log record is accompanied by summary.
 
 Version 'L'supports 'home' miners - up to 3 miners for free.
 Version 'F' supports unlimited amount of miners for a symbolic amount of money - 20 USD.  I accept equivalent in BTC, BCH, LTC, DASH.
-Once your decide to get the full version, please send email to minerwatch@gmail.com I'll reply you with the address of the wallet and once accepted I'll send the full version.  
+Once your decide to get the full version, please send email to myminerwatch@gmail.com I'll reply you with the address of the wallet and once accepted I'll send the full version.  
 You can also reach me in telegram  - @hesaid.
 
 
